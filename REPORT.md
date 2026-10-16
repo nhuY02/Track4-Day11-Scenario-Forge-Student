@@ -1,6 +1,10 @@
-MSSV: 202602759
+MSSV: 202602372
 
 # Lab 11 · Scenario Forge — báo cáo
+
+**Học viên:** Trần Thị Như Ý  
+**MSSV:** 2A202602372  
+**GitHub:** nhuY02  
 
 Các số dưới đây được lấy từ lần chạy đầy đủ (`_run.quick=false`) ở `evidence/`, thị trấn C. Ảnh viewer nằm trong `evidence/shots/`.
 
